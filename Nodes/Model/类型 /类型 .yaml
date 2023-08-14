@@ -1,0 +1,8 @@
+Name: '类型 '
+Type: FolderType
+Children:
+- Name: 电机
+  Id: g=b7bb8fe968806713d7601878c54f5e29
+  Supertype: BaseDataVariableType
+  DataType: Int32
+  Value: 0

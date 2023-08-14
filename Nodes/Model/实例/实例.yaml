@@ -1,0 +1,7 @@
+Name: 实例
+Type: FolderType
+Children:
+- Name: 电机1
+  Type: 电机
+  DataType: Int32
+  Value: 0
